@@ -43,7 +43,8 @@ Step-11 : pip install numpy
 Step-11 - in VS code add new file app.py 
 -Add templates folder under html file 
 
-![vscode](vs-codeproject.png)
+![vscode](vscode.png)
+
 
 
 
