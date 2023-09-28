@@ -45,6 +45,12 @@ Step-11 - in VS code add new file app.py
 
 ![vscode](vscode.png)
 
+# Flask App running on browser
+![flaskapp](Flaskapp.png)
+
+
+
+
 
 
 
